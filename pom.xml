@@ -61,6 +61,11 @@
     </repository>
   
   </distributionManagement>
+       <snapshotRepository>
+    <id>nexus</id>
+    <url>http://18.191.153.45:8081/repository/palani/</url>
+  </snapshotRepository>
+</distributionManagement>
 
   <dependencies>
     <dependency>
